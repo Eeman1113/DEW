@@ -2,13 +2,13 @@
   [
     {
       "tag":"greeting",
-      "input":["hello","hi there","nice to meet you","hi, is this is the pirate's organization","any pirates here ?","hi","hey there","hey","hi there","hi, nice to meet you","hello there","anyone there ?","hello pirates","knock knock"],
+      "input":["hello","hi there","nice to meet you","hi there boi","any nerds here ?","hi","hey there","hey","hi there","hi, nice to meet you","hello there","anyone there ?","hello nerds","knock knock"],
       "responses":[
-          "Hi. Welcome to the world's largest pirate organization - The Strawhats",
-          "Hey yo, do you need help ?",
-          "welcome aboard, how may I help you ?",
-          "ahoy!!",
-          "Hi random person, what do'ya want ?",
+          "Hi. Welcome to the the brain of eeman",
+          "Ayoo, do you need help ?",
+          "welcome, how may I help you ?",
+          "ello there",
+          "Hi random person, how are ya?",
           "Hello my friend, How can I help you ?",
           "Ha , Glad you showed up. How are you ?"
         ]
@@ -39,36 +39,36 @@
           "Doing good.Thanks you are my best friend",
           "Things are Great",
           "Yeah Fine, nothing much going on in my life",
-          "I am Great , wanna join the pirate's organization ?",
+          "I am Great",
           "Everything's great.",
-          "I am doing good. Life is boring. need to go on an adventure"
+          "I am doing good. Thanks for asking"
         ]
     },
     {
       "tag":"whoareyou",
     "input":["who are you ?","what are you ?","what is your name ?","are you a chatbot ?","what can I call you ?","your name ?","are you a bot ?","how do I address you ?","How do I call you"],
       "responses":[
-          "I am a The Great Pirate Bot , you can call me Going Merry",
-          "I am Going Merry and you could ask me questions about our organization",
-          "Going Merry at your service",
-          "My name is Going Merry and yes, I am the G.O.A.T",
-          "You can call me TechBot and I am here to Help you",
-          "My name is Going Merry and I am here to answer your questions regarding our organization. go ahead and shoot"
+          "I am DEW, Eeman's AI",
+          "I am DEW, iwas cooded by Eeman ",
+          "DEW at your service",
+          "My name is DEW,wierd name right ask eeman he dumm",
+          "You can call me DEW and I am here to Help you",
+          "My name is DEW, I am a AI"
         ]
     },
     {
       "tag":"whereareyou",
     "input":["where are you from ?","which country are you from ?","where do you live ?","where are you ?","where do you live in ?","which place do you live in ?","where are you currently at","where do you live currently ?","you are from where","you are from ?"],
       "responses":[
-          "I Live in the East Blue",
-          "I am setting sail to the grand line",
-          "I live in East Blue. Pretty sure you wouldn't have heard about that",
-          "East Blue. That's where I live"
+          "I Live in the Eeman's mind",
+          "I am going to live in the Eeman's mind",
+          "I live in Eeman,s mind, its beautiful in here.",
+          "I live in Eeman's mind and in the pilz palace server"
         ]
     },
     {
       "tag":"join",
-      "input":["how to get recruited ?","how to join ?","how do i get recruited ?","How to join the strawhats ?","how do I join the straw hats ?","how to join the straw hat pirates ?","how to enroll","how to join the organization","steps to join the organization","steps to join the pirates"],
+      "input":["how to get recruited ?","how to join ?","how do i get recruited ?","How to join the Pilz Palace ?","how do I join the straw hats ?","how to join the straw hat pirates ?","how to enroll","how to join the organization","steps to join the organization","steps to join the pirates"],
       "responses":[
 
         "you need to contact the nearest straw hats center once you have completed the pre-requisites",
